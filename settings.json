@@ -1,0 +1,63 @@
+{
+  "sitename": "andyrak",
+  "title": "andyrak",
+  "description": "Over-caffeinated Seattlite working in software engineering/management. Former Massachusettsian.",
+  "image": "https://cdn.glitch.global/374eeb3e-cae4-44a4-903f-42533a02e29b/andyrak.jpeg?v=1652395137036",
+  "keywords": "links, bio, networks",
+  "favicon": "https://cdn.glitch.global/374eeb3e-cae4-44a4-903f-42533a02e29b/andyrak.jpeg?v=1652395137036",
+  "themeColor": "#2B5C71",
+  "url": "https://glitch.me/",
+  
+  "twitterimage": "https://cdn.glitch.global/374eeb3e-cae4-44a4-903f-42533a02e29b/andyrak.jpeg?v=1652395137036",
+  "twitterusername": "@andyrak",
+  "twittersite": "@andyrak",
+  "twittercard": "summary",
+
+  "name": "andyrak",
+  "theme": "simple",
+  "splash": true,
+  "avatar": "https://cdn.glitch.global/374eeb3e-cae4-44a4-903f-42533a02e29b/andyrak.jpeg?v=1652395137036",
+  "videoBackground": "https://cdn.glitch.global/374eeb3e-cae4-44a4-903f-42533a02e29b/vaporbg.mp4?v=1652464677382",
+  "youtubeVideo": "",
+  "twitchAccount": "andyrak5",
+  "links": [
+    {
+      "url": "https://gofund.me/5cda6239",
+      "text": "#stopasianhate",
+      "icon": "simple-icons:gofundme"
+    },
+    {
+      "url": "https://github.com/andyrak",
+      "text": "Github",
+      "icon": "simple-icons:github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/arakauskas/",
+      "text": "LinkedIn",
+      "icon": "simple-icons:linkedin"
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@andyrak",
+    "spotify": "https://open.spotify.com/user/andyrak5?si=dcedf63a01ff4571",
+    "substack": "",
+    "dev": "",
+    "facebook": "https://www.facebook.com/andyrak",
+    "github": "",
+    "instagram": "https://www.instagram.com/andyrak/",
+    "linkedin": "",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "",
+    "twitter": "",
+    "youtube": "",
+    "twitch": "",
+    "tiktok": "",
+    "podcast": "",
+    "soundcloud": "",
+    "bandcamp": "",
+    "stackoverflow": "",
+    "kofi": "",
+    "email": "andrew.rakauskas@gmail.com"
+  }
+}
