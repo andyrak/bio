@@ -38,7 +38,8 @@
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/@andyrak",
+    "glitch": "",
+    "vercel": "https://vercel.com/andyrak",
     "spotify": "https://open.spotify.com/user/andyrak5?si=dcedf63a01ff4571",
     "substack": "",
     "dev": "",
