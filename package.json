@@ -43,5 +43,8 @@
       "git-tag"
     ],
     "onlyPublishWithReleaseLabel": true
+  },
+  "dependencies": {
+    "@vercel/node": "^2.14.4"
   }
 }

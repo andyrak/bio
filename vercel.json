@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      {
+        "source": "/.well-known/webfinger",
+        "destination": "/api/webfinger"
+      },
+      {
+        "source": "/(.*)",
+        "destination": "/index.html"
+      }
+    ]
+  }
